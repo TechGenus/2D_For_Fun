@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 60fc547640b173b43a15b20d4da9808b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: teleporter_visible__x1_portal_png_1354836401.1384784518_0
+    21300002: teleporter_visible__x1_portal_png_1354836401.1384784518_1
+    21300004: teleporter_visible__x1_portal_png_1354836401.1384784518_2
+    21300006: teleporter_visible__x1_portal_png_1354836401.1384784518_3
+    21300008: teleporter_visible__x1_portal_png_1354836401.1384784518_4
+    21300010: teleporter_visible__x1_portal_png_1354836401.1384784518_5
+    21300012: teleporter_visible__x1_portal_png_1354836401.1384784518_6
+    21300014: teleporter_visible__x1_portal_png_1354836401.1384784518_7
+    21300016: teleporter_visible__x1_portal_png_1354836401.1384784518_8
+    21300018: teleporter_visible__x1_portal_png_1354836401.1384784518_9
+    21300020: teleporter_visible__x1_portal_png_1354836401.1384784518_10
+    21300022: teleporter_visible__x1_portal_png_1354836401.1384784518_11
+    21300024: teleporter_visible__x1_portal_png_1354836401.1384784518_12
+    21300026: teleporter_visible__x1_portal_png_1354836401.1384784518_13
+    21300028: teleporter_visible__x1_portal_png_1354836401.1384784518_14
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 68
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 413
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa124efd94dd77c48add3841d2d8e544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 413
+        width: 68
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe30b13965a67948a9866c4d3d993b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 413
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8767ae721af52ee41a4b5e22259c5f08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 412
+        width: 68
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e2330527190814a85301e61dfb23e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 413
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84162923d4632c54fbafd7ed8472942a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 213
+        width: 68
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6369beb0fbe51740a5d74f95dd489e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 213
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21868fa31bf66fa42b0026a453a6bb19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 212
+        width: 68
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a9469a5d7e454787f465781ab752a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 213
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bd460d81e907e4fbae23ba9266e19a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 213
+        width: 67
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ada6eb752de304f8692825c08772f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02d6a6c029295442bd37b6e6c09ad82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 12
+        width: 69
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43be80b77188624ca6087543f91fc00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 13
+        width: 69
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457f3d5bb1f91242a07a3ef95d2985f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 13
+        width: 67
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39be0b88b58a024e92b4659905b06d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_portal_png_1354836401.1384784518_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 13
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95d9d191fca5224781b9ba529b5f9d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fd597c719a51a6d45bfa453c9fc34b2c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
